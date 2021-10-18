@@ -1,2 +1,2 @@
-# CrypticPasswardGenerator
-Generate a secure hashed+salt password
+# PasswordGeneratorApp
+Mobile iOS Generate a secure hashed+salt password
