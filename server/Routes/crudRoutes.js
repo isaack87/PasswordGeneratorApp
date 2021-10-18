@@ -1,7 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const router = express.Router();
-const HashPassWord = require('../Models/apiModel.js');
+const HashPassWord = require('../Models/mongoModels.js');
 const {createHashPassword} = require('../Helpers/helperFunctions.js');
 
 const app = express();

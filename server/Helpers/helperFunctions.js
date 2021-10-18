@@ -1,5 +1,5 @@
 
-const HashPassWord = require('../Models/apiModel.js');
+const HashPassWord = require('../Models/mongoModels.js');
 const bcrypt = require('bcrypt');
 
 
