@@ -14,12 +14,12 @@ This App will help you generate a hashed/salted password which you can use for a
 
 Account Creation and Retrival of password from Database(Mongo).
 #
-![Account Creation Screen](https://github.com/isaack87/PasswordGeneratorApp/blob/main/assets/creationdemo.gif?raw=true)
+![Account Creation Screen](https://github.com/isaack87/PasswordGeneratorApp/blob/main/assets/retrieval.gif?raw=true)
 #
 
 Creating password, Retrieving and showing the touchable easy copy/paste feature.
 #
-![Retrival and copy/paste feature](https://github.com/isaack87/PasswordGeneratorApp/blob/main/assets/retrieval.gif?raw=true)
+![Retrival and copy/paste feature](https://github.com/isaack87/PasswordGeneratorApp/blob/main/assets/creationdemo.gif?raw=true)
 #
 
 ***Installation* - How can another developer get your project up and running on their own? What dependencies are required? Are there environmental requirements? Be specific, and outline steps to take in order to get the project running.**
