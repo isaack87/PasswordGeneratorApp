@@ -1,8 +1,8 @@
 # PasswordGeneratorApp
 
 First attempt in learning and creating a mobile application with React Native
-Came up with the idea since all these tech. companies are getting hacked and losing user data.
 This App will help you generate a hashed/salted password which you can use for any website you wish to register for.
+
 
 #
 *Table of Contents*
